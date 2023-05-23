@@ -1,0 +1,33 @@
+body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    color: white;
+    background-color:black;
+  }
+  
+  h2 {
+    text-align: center;
+    color: white;
+  }
+  
+  h4 {
+    text-align: center;
+    color:white;
+  }
+
+  h1 {
+    color: white;
+    border: 1px solid greenyellow;
+  }
+  
+  .footer {
+    bottom: 0;
+    width: 100%;
+    height: 60px; 
+    color:white;
+  }
