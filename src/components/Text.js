@@ -14,7 +14,8 @@ function Text () {
         Together with Castlevania, Metroid insipired a sub-genre of adventure games with non-linear exploration and ability gated progression called “metroidvania”.
         This sub-genre is well liked and active.
         Games like Hollow Knight have enjoyed vast success.
-
+      </p>
+      <p>
         Games of the early period were usually quite simple in terms of the story or depth of the characters.
         Early 1980's was the golden era of the arcade games, which usually were designed for quick and repeated gameplay.
         Games like Pac-Man, Centipede and Dig Dug revolved around making high scores and not so much about story or exploration.
@@ -33,22 +34,24 @@ function Text () {
         Gameplay is characterized by a lack of communicable characters.
         You usually seem to be alone on an planet, where you need to make your way through different landscapes and defeat bosses in order to complete your mission.
         As a galactic bounty-hunter, Samus wears a suit of armor that includes a hand-cannon and can later turn in to a ball-form, called morph-ball.
-
+      </p>
+      <p>
         The Metroid series was heavily influenced by the movie Alien released in 1979.
         A lot of the visual style, atmosphere, and themes are closely related to Alien as well as naming of the characters (Ridley is named after the director Ridley Scott).
         Samus Aran is also one of the first main characters of a video game to be a woman.
         This is revealed in the end-scene of the first Metroid-game, where the suit of armour disappears and reveals Samus as a woman.
         The setting is quite similar to Alien, where Ellen Ripley is the main protagonist and hero of the story.
         In both Metroid, and Alien, the hero was originally thought to be a man.
-        In Metroid, it was a last minute change to reveal Samus as a woman, to surprise the player.
-        In Alien, the director Ridley Scott changed the scripted role to a woman because she would be the last one that the audience would think to survive.
-        Not despite of her femininity but because of it. (Hudson, 2017)
+        In Metroid, it was a last minute change to reveal Samus as a woman, to surprise the player.&nbsp;
+        <a href="https://www.youtube.com/watch?v=OZzjTBmwO9A"> The way Samus is revealed depends on the completion time of the game</a>. 
+        In Alien, the director Ridley Scott changed the scripted role to a woman because he thought that she would be the last one that the audience would think to survive from Nostromo.
+        Ellen Ripley does not survive despite of her femininity but because of it.
       </p>
       <h2>
         Evolution of Female Characters
       </h2>
       <p>
-        This was one of the first appearances of playable female characters in video games.
+        Samus Aran in Metroid was one of the first appearances of playable female characters in video games.
         Not viewed just as a side-character or a backdrop for the story, but as an active hero.
         Since then, some other games have become popular that feature women as their main characters, notably titles such as Tomb Raider, Bayonetta, Last of Us and Hellblade: Senua's Sacrifice.
         We can see that increasing number of video games include women as their protagonists.
@@ -56,7 +59,8 @@ function Text () {
         Opposite representation of women has usually been stronger in video games.
         In games such as the Legend of Zelda and Super Mario, women are portrayed stereotypically as damsels in distress and not so much as active characters.
         Both series have since added princess Zelda and princess Peach as playable characters in some titles, but this was not the case originally.
-
+      </p>
+      <p>
         Metroid portrayed Samus in a neutral way with the power armor and no visible feminine characterizations.
         That is, before she is shown with a bikini if you complete the game in the fastest time frame and get the “best” ending.
         In Tomb Raider however this setting is almost the opposite.
@@ -65,15 +69,17 @@ function Text () {
         Video games have been perceived mainly as male oriented activity through the 1980's and 1990's.
         Among game developers, women are still a minority even though as video game players, women are close to a 50% of the audience.
         Technological fields have largely suffered from a persistent gender gap.
-        Women make up around 21% of the workforce and they typically hold administrative positions rather than those in game development. (Kivijärvi & Sintonen, 2022)
-
+        Women make up around 21% of the workforce and they typically hold administrative positions rather than those in game development.
+      </p>
+      <p>
         During the early years from 1980's to 1990, women were portrayed in a neutral manner in video games.
         Between 1990's and the early 2000's, sexualization of female characters was at it's peak.
-        It has been suggested that this was partly due to the development of 3D graphics. (Lynch et al. 2016)
+        It has been suggested that this was partly due to the development of 3D graphics.
         From the early 2000's to recent years, the sexualized manner of representing women has decreased.
         Interestingly, fighting games have the largest proportion of sexualized female characters of any genre.
         Again, this is a genre directed mainly to male audiences.
-
+      </p>
+      <p>
         In Metroid, Samus is a bounty hunter first and a woman second.
         Her abilities don't have anything to do with her gender.
         Killing aliens is the #1 talent that makes her a badass bounty hunter.
@@ -91,10 +97,9 @@ function Text () {
         On the gamer side of things, women have long suffered from opposition in a male dominated culture.
         Gamergate brought up a lot of misogyny and harassment towards women in video game industry and as gamers.
         Some gamers have been against women in gaming as they feel it is the last bastion of masculine space left.
-        If you are not familiar with gamergate, check out some of these links (https://www.newyorker.com/tech/annals-of-technology/zoe-quinns-depression-quest
-        https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump
-        )
-        Zoë Quinn, a designer for the game 'Depression Quest' received so many threats that she even stopped answering her phone for some time. (Dewinter & Kocurek, 2017)
+        If you are not familiar with gamergate, check out either of these links: <a href="https://www.newyorker.com/tech/annals-of-technology/zoe-quinns-depression-quest">New Yorker</a>
+        &nbsp;or <a href="https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump">the Guardian</a>.
+        Zoë Quinn, a designer for the game 'Depression Quest' received so many threats that she even stopped answering her phone for some time.
       </p>
       <h2>
         Conclusion
@@ -104,9 +109,10 @@ function Text () {
         Even though women make up half of the audiences of video games, it has been a long road to more neutral representations of women as video game characters.
         Video games still hold a largely stereotyped imagery but luckily there are signs that this is changing with games like Last of Us and Hellblade.
         A lot of work needs to be done before video game industry reflects the audiences in gender distribution and diversity.
-        A small number of women in the industry is often not enough as it can lead to isolation and being silenced. (Dewinter & Kocurek, 2017)
+        A small number of women in the industry is often not enough as it can lead to isolation and being silenced.
         To enjoy a wide spectrum of video games we need a more diverse industry.
-
+      </p>
+      <p>
         Metroid games have depicted Samus over the years by varying ways.
         From the famous bikini reveal to more neutral way in Super Metroid (1994) and Metroid Prime to again more sexualized way in Metroid: Other M (2010) and in the Super Smash Bros series with stilettos, heavy makeup and large bosom.
         This shows us how persistent these sexualized depiction of women are in video games.
