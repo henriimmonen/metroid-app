@@ -32,7 +32,7 @@ function Text () {
         The main antagonists of the series are the space pirates, led by a dragon-like warlord called Ridley or cybernetic Mother Brain trying to utilize parasitic metroid-creatures in order to secure galactic dominance.
         The games are focused on exploration and collecting power-ups in order to advance to new areas.
         Gameplay is characterized by a lack of communicable characters.
-        You usually seem to be alone on an planet, where you need to make your way through different landscapes and defeat bosses in order to complete your mission.
+        You are on your own on a planet, where you need to make your way through different landscapes and defeat bosses in order to complete your mission.
         As a galactic bounty-hunter, Samus wears a suit of armor that includes a hand-cannon and can later turn in to a ball-form, called morph-ball.
       </p>
       <p>
@@ -52,17 +52,17 @@ function Text () {
       </h2>
       <p>
         Samus Aran in Metroid was one of the first appearances of playable female characters in video games.
-        Not viewed just as a side-character or a backdrop for the story, but as an active hero.
+        Not viewed just as a side-character or a backdrop for the story, but as an active participant.
         Since then, some other games have become popular that feature women as their main characters, notably titles such as Tomb Raider, Bayonetta, Last of Us and Hellblade: Senua's Sacrifice.
         We can see that increasing number of video games include women as their protagonists.
-        This could be due to the fact that we have witnessed the rise of female gamers in the past years and the game studios have awaken to reflect this and appeal wider audiences.
+        This could be due to the fact that we have witnessed the rise of female gamers in the past years and the game studios have awaken to reflect this and appeal to wider audiences.
         Opposite representation of women has usually been stronger in video games.
         In games such as the Legend of Zelda and Super Mario, women are portrayed stereotypically as damsels in distress and not so much as active characters.
         Both series have since added princess Zelda and princess Peach as playable characters in some titles, but this was not the case originally.
       </p>
       <p>
-        Metroid portrayed Samus in a neutral way with the power armor and no visible feminine characterizations.
-        That is, before she is shown with a bikini if you complete the game in the fastest time frame and get the “best” ending.
+        Metroid portrays Samus in a neutral way with the power armor and no visible feminine characterizations.
+        That is, before she is shown with a bikini if you complete the game in the fastest timeframe and get the “best” ending.
         In Tomb Raider however this setting is almost the opposite.
         Lara Croft is hypersexualized hero with revealing outfits, mainly targeted to male audiences.
         This objectified and sexualized representation of women has been the standard in most video games.
@@ -94,12 +94,14 @@ function Text () {
         Darker Shades
       </h2>
       <p>
-        On the gamer side of things, women have long suffered from opposition in a male dominated culture.
+        In video game crowds women have long suffered from opposition in a male dominated culture.
         Gamergate brought up a lot of misogyny and harassment towards women in video game industry and as gamers.
         Some gamers have been against women in gaming as they feel it is the last bastion of masculine space left.
         If you are not familiar with gamergate, check out either of these links: <a href="https://www.newyorker.com/tech/annals-of-technology/zoe-quinns-depression-quest">New Yorker</a>
         &nbsp;or <a href="https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump">the Guardian</a>.
-        Zoë Quinn, a designer for the game 'Depression Quest' received so many threats that she even stopped answering her phone for some time.
+        Zoë Quinn, a designer for the game 'Depression Quest' received so many threats that she even stopped answering her phone for some time. A lot of other women were also harrassed and threatened.
+        Gamergate relates to larger topic of demographic conflict between right-wing
+        crowds and people in favour of a more diverse culture. A lot of it reflects the social tensions in American culture.
       </p>
       <h2>
         Conclusion
@@ -107,7 +109,7 @@ function Text () {
       <p>
         Representation of women in video games is linked to several factors: gender bias in the industry, misogyny, and how women are perceived in the society in general.
         Even though women make up half of the audiences of video games, it has been a long road to more neutral representations of women as video game characters.
-        Video games still hold a largely stereotyped imagery but luckily there are signs that this is changing with games like Last of Us and Hellblade.
+        Video games still hold a largely stereotyped imagery but luckily there are signs that this is changing with games like the Last of Us and Hellblade.
         A lot of work needs to be done before video game industry reflects the audiences in gender distribution and diversity.
         A small number of women in the industry is often not enough as it can lead to isolation and being silenced.
         To enjoy a wide spectrum of video games we need a more diverse industry.
@@ -118,6 +120,40 @@ function Text () {
         This shows us how persistent these sexualized depiction of women are in video games.
         As the community becomes more diverse, I'm hoping that the games themselves would represent this as well.
       </p>
+      <h2>
+        Sources used in writing this text:
+      </h2>
+      <ul>
+        <li>
+          Dewinter, J. & Kocurek, C. A. 2017.
+          “Aw Fuck, I've Got a Bitch On My Team!: Women and Exclusionary Cultures of the Computer Game Complex” in Gaming Representation: Race, Gender, and Sexuality in Video Games.
+          Edited by: Malkowski, J. & Russworm T. M.
+          Indiana: Indiana University Press.
+        </li>
+        <li>
+          Hudson, L. 2017.
+          Metroid: Samus Returns isn't just an action game-it's a feminist horror tale.&nbsp;
+          <a href="https://www.wired.com/story/metroid-samus-returns-alien-movies/#:~:text=Metroid%20isn't%20just%20an,rooted%20in%20the%20female%20body">Wired</a>
+        </li>
+        <li>
+          Kivijärvi, M. & Sintonen, T.
+          2022.
+          The stigma of feminism: disclosures and silences regarding female disadvantage in the video game industry in US and Finnish media stories.
+          Feminist Media Studies.
+          22 (5): 1083-1101.
+        </li>
+        <li>
+          Lynch, T, Tompkins, J. E, van Driel, I. I, Fritz, N.
+          2016. 
+          Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games across 31 Years.
+          Journal of Communication.
+          66: 564-584.
+        </li>
+        <li>
+          Yokoi, T. 2021. Female gamers are on the rise. Can the gaming industry catch up?&nbsp;
+          <a href="https://www.forbes.com/sites/tomokoyokoi/2021/03/04/female-gamers-are-on-the-rise-can-the-gaming-industry-catch-up/?sh=40c591aef9fe">Forbes</a>
+        </li>
+      </ul>
     </div>
   );
 }
